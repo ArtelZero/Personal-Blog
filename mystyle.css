@@ -2,3 +2,12 @@
   font-family: system-ui;
   text-align: center;
 }
+#Oneplus_Logo {
+  width: 300px;
+  height: 200px;
+  float: left;
+}
+.read_one {
+  float: left;
+  text-align: left;
+}
