@@ -3,11 +3,16 @@
   text-align: center;
 }
 #Oneplus_Logo {
-  width: 300px;
-  height: 200px;
+  width: 550px;
+  height: 300px;
   float: left;
 }
-.read_one {
+#Apple_logo{
+  width: 230px;
+  height: 260px;
+  float: right;
+}
+.read_oneplus {
   float: left;
   text-align: left;
 }
